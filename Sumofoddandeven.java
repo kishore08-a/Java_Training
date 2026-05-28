@@ -13,5 +13,5 @@ public class Sumofoddandeven{
         System.out.println("Odd sum: " + odd);
         }
     }
-    
 }
+    
